@@ -38,17 +38,14 @@ Shor's algorithm, developed by Peter Shor in 1994, is a quantum algorithm for in
 1. Clone this repository:
 
 git clone https://github.com/SuperSonnix71/Shors-quantum-algorithm.git
-text
 
 2. Navigate to the project directory:
 
 cd Shors-quantum-algorithm
-text
 
 3. Install the required packages:
 
 pip install -r requirements.txt
-text
 
 ## Usage
 
@@ -56,7 +53,6 @@ Run the main script:
 
 
 python shors_algorithm.py
-text
 
 This will execute Shor's algorithm to factor the number 15 and generate various output files.
 
